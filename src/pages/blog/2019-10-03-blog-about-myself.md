@@ -13,5 +13,8 @@ tags:
 Hello my body
 
 ## este es un h2
-- all ok
-- good
+
+![coffe cup](/img/jumbotron.jpg "Coffe cups")
+
+* all ok
+* good
