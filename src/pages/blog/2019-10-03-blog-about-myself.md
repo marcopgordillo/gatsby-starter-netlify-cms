@@ -14,7 +14,7 @@ Hello my body
 
 ## este es un h2
 
-![coffe cup](/img/jumbotron.jpg "Coffe cups")
+![coffe cup](https://drive.google.com/open?id=1A4fpmKV3vvIGkRxw23T3JM0JsNij8Fl5 "Coffe cups")
 
 * all ok
 * good
