@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Blog about myself
 date: 2019-10-03T15:59:38.760Z
 description: This is a blog about myself example
-featuredpost: true
-featuredimage: /img/products-full-width.jpg
+featuredpost: false
+featuredimage: /img/blog-index.jpg
 tags:
   - blog
   - first
